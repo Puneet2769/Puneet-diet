@@ -2,6 +2,8 @@
 
 Puneet Diet is a web application designed to 🌿 help users manage their diet and nutrition effectively.
 
+https://puneet2769.github.io/Puneet-diet/
+
 ## 📌 Table of Contents
 
 - [✨ Features](#-features)
